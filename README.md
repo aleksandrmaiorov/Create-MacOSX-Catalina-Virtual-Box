@@ -1,6 +1,7 @@
 # How to Install macOS 10.15 Catalina on VirtualBox
 
 #### Download macOS 10.15 Catalina and convert to ISO Image
+
 ##### Step 1
 Download Catalina Final from the Mac App Store
 
@@ -34,12 +35,12 @@ mv ~/Desktop/Catalina.cdr ~/Desktop/Catalina.iso
 ```
 
 #### Step 3
-###### Next install VirtualBox and then install the Extension Pack
+##### Next install VirtualBox and then install the Extension Pack
 
 [Download VirtualBox](https://techsviewer.com/go/virtualbox/ "Download VirtualBox")
 
-####Step 4
+#### Step 4
 
-###### Create a New Virtual Machine
+##### Create a New Virtual Machine
 
 
